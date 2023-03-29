@@ -1,4 +1,4 @@
-package com.example.oop9;
+package com.example.oop9.tabulation;
 
 public class Point {
     private double x;
